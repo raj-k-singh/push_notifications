@@ -5,6 +5,6 @@ the push notification method can be particularly helpful when working on a
 remote machine.
 
 Usage:
--   Create an account and an app on pushover.com
+-   Create an account and an app on [pushover](https://pushover.net).
 -   Plug in the user and app tokens into push_notification.py
 -   Send a notiification with `python push_notification.py <notification_text>`
